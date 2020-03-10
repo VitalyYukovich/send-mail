@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-     $hapikey = "key"; // change key
+     $hapikey = "key"; // change your key
      // $contact = array(
      //        'properties' => array(
      //            array(
