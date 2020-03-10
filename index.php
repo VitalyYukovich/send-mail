@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-     $hapikey = "db8e87aa-d848-4664-a997-107e2997828b";
+     $hapikey = "key"; // change key
      // $contact = array(
      //        'properties' => array(
      //            array(
